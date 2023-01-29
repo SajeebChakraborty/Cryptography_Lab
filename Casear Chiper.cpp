@@ -49,7 +49,6 @@ int main()
     cout << "encrpted_txt :";
     cout <<  encrpted_txt << endl;
 
-
     for(int i=0;i<encrpted_txt.length();i++)
     {
 
